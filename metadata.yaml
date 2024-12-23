@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '22'
     url: http://www.gutenberg.org/2009/agents/22
     wikipedia: https://en.wikipedia.org/wiki/Willa_Cather
+covers:
+- cover_type: archival
+  image_path: 74909-h/images/cover.jpg
 creator:
   author:
     agent_name: Jewett, Sarah Orne
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/202
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74909#The-best-stories-of-Sarah-Orne-Jewett-Volume-1-of-2
 gutenberg_issued: '2024-12-15'
 gutenberg_type: Text
 identifiers:
